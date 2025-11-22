@@ -1,16 +1,1 @@
-# Task 1: Iris Dataset Exploration
 
-## Objective
-Explore and visualize the Iris dataset.
-
-## Dataset
-Built-in seaborn Iris dataset.
-
-## Steps Performed
-- Loaded and inspected data
-- Explored summary statistics
-- Created visualizations
-
-## Results
-- Clear relationship between petal length and species
-- No major missing values
