@@ -10,7 +10,7 @@ from google.genai import types
 # 1. Gemini Initialization
 # --------------------------------------------------
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyA7sd2246ci1BTwXMylQFlmDBGwqPYWZBY"
+os.environ["GEMINI_API_KEY"] = "XXXXXXXXX"
 
 client = genai.Client()
 
@@ -130,3 +130,4 @@ if st.button("Send"):
 
         # STREAMLIT FIX → use st.rerun() (experimental_api removed)
         st.rerun()
+
